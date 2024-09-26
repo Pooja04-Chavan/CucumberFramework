@@ -8,10 +8,10 @@ Feature: Validating Place API's
     And "status" in response body is "OK"
     And "scope" in response body is "APP"
     And verify place_Id created maps to "<name>" using "getPlaceAPI"
-    Examples:
+    Examples:git
     |name    |language    |address          |
     |AAhouse |English     |word cross center|
-  #  |bbhouse |french      |England          |
+    |bbhouse |french      |England          |
   #  |cchuse  |spanish     |America          |
 
   @DeletePlace @Regression
