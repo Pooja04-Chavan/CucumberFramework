@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be5afdba-2dca-4e55-ab49-e9978952dc42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cucumberAPI/pojo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cucumberAPI/pojo/SerializeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/cucmberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/featureFile/placevalidation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/resource/ApiResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/resource/Global.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/resource/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/stepDefinitions/StepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumberAPI/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/InfosysInterviewQuesion/InfosysMaxMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/InfosysInterviewQuesion/InfosysReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/advancedProgram/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/CharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Palindromenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/ReverseEachWordOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/StringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/palindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/instagramCodingQuestion/LinkedListSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/instagramCodingQuestion/uniqeNumberHashSeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/LongestWordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/ReverseString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/interviewQuestions/RevreseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/patternprogram/DoublePyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/patternprogram/P001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/patternprogram/PatternPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/practice001/CountWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/practice001/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/practice_program/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/EvenOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/NumberSwapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/PalindromeNumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/RevreseStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/qa_interview_java_program/SumofUniqueNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/AnagramHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/AnagramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/CommonElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/CountNumberOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/EachWordOccurenceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/LargestAndSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/PrimeNumberCHeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/PrintPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/RemoveDuplicateWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/RemoveSpaceInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/ReverseEachWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProgram/src/string_Array_Program/WordCountInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgram/src/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeProgram/src/basics/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgram/src/patternprogram/SquarePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeProgram/src/patternprogram/SquarePattern.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2l3T0foXq8B8fyYZXJwGnE2Bseb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucmberFrameworkAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cucumberAPI.cucmberOptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cucumberAPI.cucmberOptions" />
+      <option name="MAIN_CLASS_NAME" value="com.cucumberAPI.cucmberOptions.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be5afdba-2dca-4e55-ab49-e9978952dc42" name="Changes" comment="" />
+      <created>1724407541778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724407541778</updated>
+    </task>
+    <servers />
+  </component>
+</project>
