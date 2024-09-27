@@ -12,8 +12,8 @@ Feature: Validating Place API's
     |name    |language    |address          |
     |AAhouse |English     |word cross center|
     |bbhouse |french      |England          |
-  #  |cchuse  |spanish     |America          |
-
+    |cchuse  |spanish     |America          |
+c
   @DeletePlace @Regression
   Scenario: Verify if delete place functionality is working
     Given Delete Place Payload
